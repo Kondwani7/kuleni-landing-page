@@ -2,17 +2,14 @@ import React from 'react'
 import {
   HamburgerIcon,
   CloseIcon,
-  ChevronDownIcon,
-  ChevronRightIcon,
+ 
 } from '@chakra-ui/icons';
-import { Button,Box, Flex,HStack,Image,Link,Text,
+import { Button,Box, Flex,Image,Link,Text,
   IconButton,
   Stack,
   Collapse,
-  Icon,
   Popover,
   PopoverTrigger,
-  PopoverContent,
   useColorModeValue,
   useBreakpointValue,
   useDisclosure } from '@chakra-ui/react'
