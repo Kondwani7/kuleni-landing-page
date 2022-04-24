@@ -1,4 +1,5 @@
-const db = require('pg').Pool;
+const Pool = require("pg").Pool
+
 require("dotenv").config()
 
 const pool = new Pool({
