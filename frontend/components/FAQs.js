@@ -16,8 +16,8 @@ const FAQs = () => {
           <Select size="lg" textAlign="center" placeholder='Do I have to pay to join'>
             <option>No! join the Kuleni Family for free as a user or construction worker</option>
           </Select>
-          <Select size="lg" textAlign="center" placeholder='If I register as a construction worker under Kuleni is it full time employment'>
-            <option>No. They are under a freelauncher agreement attached Provided here 
+          <Select size="lg" textAlign="center" placeholder='If I register as a construction worker under Kuleni do I get full-time employment'>
+            <option>No. They are under a freelauncher agreement  
             </option>
           </Select>
           <Select size="lg" textAlign="center" placeholder='When is Kuleni Launching'>
